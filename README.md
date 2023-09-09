@@ -1,1 +1,1 @@
-# CS-Internships-Summer-2024
+# Somewhat-Famous-CS-Internships-Summer-2024
